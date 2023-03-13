@@ -1,7 +1,7 @@
 # Project Boost
  Simple Rocket trjactory based game here aim is to land Rocket from one place to other
  
-Prject Boost is an exciting 2D game where your mission is to safely land a rocket from one launch pad to a landing pad, dodging through all obstacles in your way. The game features multiple levels of increasing difficulty, each with its own unique challenges and obstacles.
+Project Boost is an exciting 2D game where your mission is to safely land a rocket from one launch pad to a landing pad, dodging through all obstacles in your way. The game features multiple levels of increasing difficulty, each with its own unique challenges and obstacles.
 
 This game is developed on GitHub, a powerful version control platform that enables developers to collaborate and contribute to the project. By downloading the game files from our GitHub repository, you can set up the game on your computer and start playing.
 
